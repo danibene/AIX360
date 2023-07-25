@@ -75,7 +75,7 @@ extra_requires = {
         "tensorflow",
         "matplotlib",
         "numba",
-        "pandas<2.0.0",
+        "pandas",
         "shap",
         "tqdm",
     ],
