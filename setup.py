@@ -71,7 +71,7 @@ extra_requires = {
         "h5py<3.0.0",  # to resolve keras error: 'str' object has no attribute 'decode'
     ],
     "shap": [
-        "keras==2.3.1",
+        "keras",
         "tensorflow",
         "matplotlib",
         "numba",
