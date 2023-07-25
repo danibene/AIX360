@@ -72,7 +72,7 @@ extra_requires = {
     ],
     "shap": [
         "keras==2.3.1",
-        "tensorflow==1.14",
+        "tensorflow",
         "matplotlib",
         "numba",
         "pandas<2.0.0",
